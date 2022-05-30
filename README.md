@@ -16,7 +16,7 @@ npm start
 
 <hr><hr>
 
-<h3>Birthday Reminder</h3>
+<h2>Birthday Reminder</h2>
 <p>This is the basic project made for begineer</p>
 <p><b>In this project an array of data is given in the data.js file <br>
 we just have to use the data from data.js file and show the output on the screen <br>
@@ -36,7 +36,7 @@ Also add a clear button at the end of the list<br><br> </b></p>
 
 <hr><hr>
 
-<h3>Tours</h3>
+<h2>Tours</h2>
 <p>This is also one of the basic project for the begineer</p>
 <p><b>In this project an array of data is fetch from the one of the api used in App.js <br></b></p>
 <p>This is project which can help developer to understand how to use components and proper de-structure the data aquired from the api</p>
@@ -52,7 +52,7 @@ Also when the tours list is empty "REFRESH" button is used to repeat the same pr
 
 <hr><hr>
 
-<h3>Reviews</h3>
+<h2>Reviews</h2>
 <p><b>In this project we learn about how to use icons in our programs</b></p>
 <p>Icons can we used as the componets in the react <br>
 We just have to import the icon from the libaray "react-icons".I have used icons from the fontawsome library as using "react-icons/fa"<br><br>
@@ -65,3 +65,18 @@ Also there is a "Surprise Me" button which random select any person and show on 
 <br>
 
 <hr><hr>
+
+<h2>Accordion</h2>
+<p><b>It is a very simple project and it can be used in a website as FAQs section.</b><br><br>
+In this project we can click on the "PLUS" button to show the answer of the question.<br>
+And on clicking on the "MINUS" button we can hide the solution of the question.</p>
+
+<br>
+
+![2022042611442](https://user-images.githubusercontent.com/101471692/170941445-e0958c70-a679-4662-9f4c-ca4d4e823531.gif)
+
+<br>
+
+<hr><hr>
+
+
