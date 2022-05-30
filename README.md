@@ -79,4 +79,15 @@ And on clicking on the "MINUS" button we can hide the solution of the question.<
 
 <hr><hr>
 
+<h2>Menu</h2>
+<p><b>In this project I tried to make menu with different Categories in it</b></p>
+<p>There are 4 categories namely "ALL", "BREAKFAST", "LUNCH", "SHAKES". By using filter function we can seprate by data by categories<br>
+Also in data.js the data object has categories arrtibute</p>
 
+<br>
+
+![2022-05-03 09-51-17](https://user-images.githubusercontent.com/101471692/170976368-d6032167-1405-408c-8675-a9598c4f4a53.gif)
+
+<br>
+
+<hr><hr>
