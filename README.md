@@ -91,3 +91,16 @@ Also in data.js the data object has categories arrtibute</p>
 <br>
 
 <hr><hr>
+
+<h2>Tabs</h2>
+<p><b>As the project name is clear, I tried to make Tabs using ReactJS</b></p>
+<p>The most hard part in this project for me was, how we can dynamically change the className.It is generally done by <b>` Write the condition inside me `</b> and then we can write condition in it.<br>
+Other things were quite familar for me as other things are previous covered in the above projects</p>
+
+<br>
+
+![2022-05-10 09-32-48](https://user-images.githubusercontent.com/101471692/170978837-2dc38ae8-e91a-4598-a3e1-680e467d423e.gif)
+
+<br>
+
+<hr><hr>
