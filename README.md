@@ -51,3 +51,17 @@ Also when the tours list is empty "REFRESH" button is used to repeat the same pr
 <br>
 
 <hr><hr>
+
+<h3>Reviews</h3>
+<p><b>In this project we learn about how to use icons in our programs</b></p>
+<p>Icons can we used as the componets in the react <br>
+We just have to import the icon from the libaray "react-icons".I have used icons from the fontawsome library as using "react-icons/fa"<br><br>
+Also there is a "Surprise Me" button which random select any person and show on the screen</p>
+
+<br>
+
+![2022-04-19 16-04-59](https://user-images.githubusercontent.com/101471692/170926924-289e8142-3da0-4bc8-96ca-43cec9ee37e8.gif)
+
+<br>
+
+<hr><hr>
