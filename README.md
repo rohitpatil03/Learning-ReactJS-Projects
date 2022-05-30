@@ -35,3 +35,19 @@ Also add a clear button at the end of the list<br><br> </b></p>
 <br>
 
 <hr><hr>
+
+<h3>Tours</h3>
+<p>This is also one of the basic project for the begineer</p>
+<p><b>In this project an array of data is fetch from the one of the api used in App.js <br></b></p>
+<p>This is project which can help developer to understand how to use components and proper de-structure the data aquired from the api</p>
+
+<p>"NOT INTERESTED" button is used to remove the specific tour from the list of the tours<br>
+Also when the tours list is empty "REFRESH" button is used to repeat the same process and the list of tours pops up</p>
+
+<br>
+
+![2022-04-12 17-29-36](https://user-images.githubusercontent.com/101471692/170922478-d94ba2c2-0930-423a-9b2c-aad5b32e8ffe.gif)
+
+<br>
+
+<hr><hr>
