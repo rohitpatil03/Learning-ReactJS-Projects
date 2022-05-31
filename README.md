@@ -130,3 +130,16 @@ Actually we are getting the data from the data.js and show it on the screen</p>
 <br>
 
 <hr><hr>
+
+<h2>Colour Generator</h2>
+<p><b>This project is made to find the shades and tints of a particular colour</b></p>
+<p>In this project value.js file is used to find shades and tints of a colour. It return a array of shades and tints<br>
+After that ReactJS is used to arrage the data which is returned by the value.js file</p>
+
+<br>
+
+![2022-05-31 13-29-16](https://user-images.githubusercontent.com/101471692/171125276-4ea37208-67ca-4376-89ea-77e090038f48.gif)
+
+<br>
+
+<hr><hr>
