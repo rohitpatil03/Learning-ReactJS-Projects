@@ -104,3 +104,16 @@ Other things were quite familar for me as other things are previous covered in t
 <br>
 
 <hr><hr>
+
+<h2>Slider</h2>
+<p><b>I tired to make a slider component using ReactJS</b></p>
+<p>This project uses high level of CSS as we try to hide other sildes using css and show them with the help of changing the className in ReactJS</p>
+<p>ReactJS is used to dynamically change the className for different slides</p>
+
+<br>
+
+![2022-05-17 13-13-05](https://user-images.githubusercontent.com/101471692/171113868-7bc1cc6b-ed32-43ec-b613-c5e496c0102c.gif)
+
+<br>
+
+<hr><hr>
