@@ -117,3 +117,16 @@ Other things were quite familar for me as other things are previous covered in t
 <br>
 
 <hr><hr>
+
+<h2>Lorem-ipsum</h2>
+<p><b>Tried to recreate lorem-ipsum thing which is used in Visual Studio Code</b></p>
+<p>Just type the number of paragraph you want and the paragraph will appear on the screen <br>
+Actually we are getting the data from the data.js and show it on the screen</p>
+
+<br>
+
+![2022-05-24 11-08-39](https://user-images.githubusercontent.com/101471692/171115565-088f35b7-ddfa-41b5-9af4-8d5e39f3b5e0.gif)
+
+<br>
+
+<hr><hr>
