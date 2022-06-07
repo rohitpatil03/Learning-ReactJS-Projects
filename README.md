@@ -143,3 +143,16 @@ After that ReactJS is used to arrage the data which is returned by the value.js 
 <br>
 
 <hr><hr>
+
+<h2>Grocery List</h2>
+<p><b>This project is similar to a To-Do list project. Just the theme has been changed</b></p>
+<p>This is a simple project and it can said that we have covered everthing from using the hooks to setting up the setTimeout function in the useEffect() hook<br>
+the setTimeout function is used to for the modal to show and vanish again</p>
+
+<br>
+
+![2022-06-06 21-11-16](https://user-images.githubusercontent.com/101471692/172280804-9a0d04b7-9e7e-4f65-9b53-affa2f3010f9.gif)
+
+<br>
+
+<hr><hr>
