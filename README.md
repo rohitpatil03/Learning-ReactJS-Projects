@@ -156,3 +156,16 @@ the setTimeout function is used to for the modal to show and vanish again</p>
 <br>
 
 <hr><hr>
+
+<h2>Navbar</h2>
+<p><b>It is the basic navigation bar Component</b></p>
+<p>It consist of the logo and links for the navigation.<br>
+It is also responsive in nature</p>
+
+<br>
+
+![bwqco-hj9qu](https://user-images.githubusercontent.com/101471692/174745200-bb210a35-b223-449b-b734-717f9bd5ffbe.gif)
+
+<br>
+
+<hr><hr>
