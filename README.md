@@ -169,3 +169,16 @@ It is also responsive in nature</p>
 <br>
 
 <hr><hr>
+
+<h2>Sidebar</h2>
+<p><b>It is also a navigational component</b></p>
+<p>We mainly try to use useContext hook to make it possible<br>
+Also modal is added to make the main page somewhat active to show that we can add muiltiple components on a single page</p>
+
+<br>
+
+![siino-muq3f](https://user-images.githubusercontent.com/101471692/174746623-40dccbb6-892c-4c67-b3b0-1a22450165c6.gif)
+
+<br>
+
+<hr><hr>
