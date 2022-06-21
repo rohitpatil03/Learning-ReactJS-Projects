@@ -182,3 +182,16 @@ Also modal is added to make the main page somewhat active to show that we can ad
 <br>
 
 <hr><hr>
+
+<h2>Stripe Clone</h2>
+<p><b>This is a clone of the navigational component of the stripe website</b></p>
+<p>It is the combination of the above two projects<br>
+Also we have added the submenus on the navigational component to replicate the stripe website</p>
+
+<br>
+
+![1gpis-e3vkc](https://user-images.githubusercontent.com/101471692/174747423-ade82c6c-d717-4b7f-9e9e-8d6c104edc8b.gif)
+
+<br>
+
+<hr><hr>
