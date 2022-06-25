@@ -195,3 +195,22 @@ Also we have added the submenus on the navigational component to replicate the s
 <br>
 
 <hr><hr>
+
+<h2>Cart</h2>
+<p><b>Tried to replicate the CART</b></p>
+<p>It is mainly made by useReducer hook in reactjs for the state management<br>
+it has the following features<br>
+  -- Total Item<br>
+  -- Total Amount<br>
+  -- Increase Item<br>
+  -- Decrease Item<br>
+</p>
+
+<br>
+
+![2022-06-25 11-59-00](https://user-images.githubusercontent.com/101471692/175762491-c6a38835-b61f-4ba9-adb4-7cd93a04d732.gif)
+
+<br>
+
+
+<hr><hr>
