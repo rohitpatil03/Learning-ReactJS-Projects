@@ -212,5 +212,17 @@ it has the following features<br>
 
 <br>
 
+<hr><hr>
+
+<h2>Cocktail Menu</h2>
+<p><b>Cocktail Menu is made from the api suupport which is provided in the context.js</b></p>
+<p>The searching of the cocktail by a single letter is possile because we try to fetch the api by searching the term in the url itself<br>
+We also used the router and link and other react-router libaray stuff</p>
+
+<br>
+
+![2022-06-28 09-46-51](https://user-images.githubusercontent.com/101471692/176094637-65c9f392-b25f-439c-aefc-5468fd7e7cbe.gif)
+
+<br>
 
 <hr><hr>
