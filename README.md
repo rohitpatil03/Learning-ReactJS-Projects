@@ -226,3 +226,16 @@ We also used the router and link and other react-router libaray stuff</p>
 <br>
 
 <hr><hr>
+
+<h2>Markdown</h2>
+<p><b>It can show live changes of a markdown file</b></p>
+<p>React has its own markdown in 'react-markdown' file<br>
+Just import the 'react-markdown' file and pass the text in it</p>
+
+<br>
+
+![2022-07-02 09-50-19](https://user-images.githubusercontent.com/101471692/176986701-f65ab498-a8da-4ae6-a564-79253a1ba248.gif)
+
+<br>
+
+<hr><hr>
