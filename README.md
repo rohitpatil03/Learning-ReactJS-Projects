@@ -239,3 +239,17 @@ Just import the 'react-markdown' file and pass the text in it</p>
 <br>
 
 <hr><hr>
+
+<h2>Random Person</h2>
+<p><b>This is a simple project based on api data fetching</b></p>
+<p>The api is given in the context.js file<br>
+It is used to fetch data and then display the data on the webpage<br>
+Also a simple animation is created by anime.js library</p>
+
+<br>
+
+![2022-07-05 09-30-29](https://user-images.githubusercontent.com/101471692/177247910-07ff723a-0f03-4132-b9c1-9ac94c7bb2bc.gif)
+
+<br>
+
+<hr><hr>
