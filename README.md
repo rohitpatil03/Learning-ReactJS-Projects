@@ -253,3 +253,15 @@ Also a simple animation is created by anime.js library</p>
 <br>
 
 <hr><hr>
+
+<h2>Pagination</h2>
+<p><b>This is a navigation UI for navigating between pages</b></p>
+<p>It is a simple project based on some simple context we have learned in the above projects</p>
+
+<br>
+
+![2022-07-09 09-15-01](https://user-images.githubusercontent.com/101471692/178090829-1fee967e-8ee4-4ad4-a992-15b8857c1e92.gif)
+
+<br>
+
+<hr><hr>
