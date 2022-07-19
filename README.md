@@ -278,3 +278,16 @@ It can also store favorite mode of the user with the help of the localStorage on
 <br>
 
 <hr><hr>
+
+<h2>Hacker News</h2>
+<p><b>Hacker news is fetch from the API and displayed with the help of ReactJS</b></p>
+<p>useReducer is used for state manegement<br>
+It is easy project and use some css to mention it on the webpage</p>
+
+<br>
+
+![2022-07-19 10-58-39](https://user-images.githubusercontent.com/101471692/179674895-9b3c5133-2177-4ab3-a9eb-9b53b170fa6d.gif)
+
+<br>
+
+<hr><hr>
