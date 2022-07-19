@@ -265,3 +265,16 @@ Also a simple animation is created by anime.js library</p>
 <br>
 
 <hr><hr>
+
+<h2>Dark Mode</h2>
+<p><b>It has a toggle feature between dark mode and light mode. It also can store the favorite mode of the user</b></p>
+<p>The toggle is done by the useState feature and the class is changed according to the state of the usestate<br>
+It can also store favorite mode of the user with the help of the localStorage on browser</p>
+
+<br>
+
+![2022-07-16 09-59-37](https://user-images.githubusercontent.com/101471692/179339633-c1887582-ef24-41b4-b4b1-5429f07239f2.gif)
+
+<br>
+
+<hr><hr>
